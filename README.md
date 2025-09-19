@@ -32,5 +32,5 @@ Sou estudante de Engenharia de Software, com ênfase em desenvolvimento Back-End
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=24&center=true&vCenter=true&width=440&lines=Aprimorando+e+construindo+soluções+em+tecnologia.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=24&center=true&vCenter=true&width=440&lines=Construindo+soluções+em+tecnologia.">
 </div>
