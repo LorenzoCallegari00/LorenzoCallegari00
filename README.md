@@ -24,10 +24,9 @@ Sou estudante de Engenharia de Software, com ênfase em desenvolvimento Back-End
 
 ## Projetos em Destaque
 
-- [CadastroDeFuncionarios](https://github.com/LorenzoCallegari00/CadastroDeFuncionarios): Sistema para gerenciamento de funcionários, com ênfase em boas práticas de back-end.
+- [CadastroDeFuncionarios](https://github.com/LorenzoCallegari00/CadastroDeFuncionarios): Sistema para gerenciamento de funcionários, com ênfase no aprendizado do Framework Spring Boot.
 - [Java10X](https://github.com/LorenzoCallegari00/Java10X): Repositório voltado para aprofundamento em Java e estudos avançados.
-- [Atividade-Desenvolvimento-Web](https://github.com/LorenzoCallegari00/Atividade-Desenvolvimento-Web): Projetos acadêmicos e experimentos com tecnologias web.
-- [TheDiamondK](https://github.com/LorenzoCallegari00/TheDiamondK): Projeto pessoal com foco em lógica de programação e algoritmos.
+- [Atividade-Desenvolvimento-Web](https://github.com/LorenzoCallegari00/Atividade-Desenvolvimento-Web): Projeto acadêmico para criação de página web.
 
 ## Contato
 
