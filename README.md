@@ -6,19 +6,20 @@
 
 Sou estudante de Engenharia de Software, com ênfase em desenvolvimento Back-End e forte interesse em arquitetura de sistemas, boas práticas de programação e tecnologias modernas. Busco constantemente aprimorar minhas habilidades técnicas, com foco em Java, Spring Boot e Docker, além de explorar novas ferramentas e metodologias do ecossistema de desenvolvimento de software.
 
-- **Formação:** Engenharia de Software
+- **Formação:** Engenharia de Software (em formação)
 - **Principais Tecnologias:** Java, Spring Boot, Docker
-- **Interesses:** Arquitetura de Software, DevOps, Testes Automatizados
+- **Interesses:** Desenvolvimento, Arquitetura de Software, DevOps, Testes Automatizados
 - **Perfil:** Proativo, dedicado e orientado à solução de problemas
 
 ## Competências Técnicas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![BackEnd](https://img.shields.io/badge/BackEnd-000000?style=for-the-badge&logo=code&logoColor=white)
 
 ## Projetos em Destaque
@@ -29,6 +30,8 @@ Sou estudante de Engenharia de Software, com ênfase em desenvolvimento Back-End
 - [TheDiamondK](https://github.com/LorenzoCallegari00/TheDiamondK): Projeto pessoal com foco em lógica de programação e algoritmos.
 
 ## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-callegari00)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-callegari00)
 
